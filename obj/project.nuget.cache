@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "816+vYrou48=",
+  "success": true,
+  "projectFilePath": "F:\\projects\\weatherforecast\\MyDotNetApi\\MyDotNetApi.csproj",
+  "expectedPackageFiles": [
+    "F:\\NuGetPackages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "F:\\NuGetPackages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
