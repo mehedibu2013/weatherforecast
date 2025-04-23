@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "816+vYrou48=",
+  "dgSpecHash": "4QTd2A3M0O4=",
   "success": true,
   "projectFilePath": "F:\\projects\\weatherforecast\\MyDotNetApi\\MyDotNetApi.csproj",
   "expectedPackageFiles": [
-    "F:\\NuGetPackages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
-    "F:\\NuGetPackages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "F:\\NuGetPackages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "F:\\NuGetPackages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "F:\\NuGetPackages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "F:\\NuGetPackages\\swashbuckle.aspnetcore\\8.1.1\\swashbuckle.aspnetcore.8.1.1.nupkg.sha512",
+    "F:\\NuGetPackages\\swashbuckle.aspnetcore.swagger\\8.1.1\\swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "F:\\NuGetPackages\\swashbuckle.aspnetcore.swaggergen\\8.1.1\\swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "F:\\NuGetPackages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512"
   ],
   "logs": []
 }
